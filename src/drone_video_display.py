@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # A basic video display window for the tutorial "Up and flying with the AR.Drone and ROS | Getting Started"
-# https://github.com/mikehamer/ardrone_tutorials_getting_started
+# https://github.com/sakishor/ardrone_tutorials
 
 # This display window listens to the drone's video feeds and updates the display at regular intervals
 # It also tracks the drone's status and any connection problems, displaying them in the window's status bar
